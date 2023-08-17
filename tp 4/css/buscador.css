@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.contenedor1{
+    background-color: rgb(181, 115, 90);
+    width: 100%;
+    height: 130px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    gap: 20px;
+}
+.zona{
+
+}
+.buscar{
+
+}
+.botonbuscar{
+    
+}
